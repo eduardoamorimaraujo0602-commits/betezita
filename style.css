@@ -1,0 +1,16 @@
+@charset "UTF-8";
+h1{
+    text-align: center;
+}
+:root{
+    --cor1: rgb(32,32, 121);
+    --cor2: rgb(234, 206, 211);
+}
+
+*{
+    background-color: var(--cor2);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    padding: 5px;
+}
+
